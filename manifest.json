@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
+  "repository": "agid-asia-index",
+  "kind": "continent-index",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "asia",
+  "region": null,
+  "stage": "wave-0-index",
+  "dataReady": true,
+  "sourcePlanVersion": "agid-asia-repository-creation-plan-v1",
+  "generatedAt": "2026-06-29T04:53:08.138Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-asia-caucasus-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    },
+    {
+      "repository": "agid-asia-east-asia-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    },
+    {
+      "repository": "agid-asia-southeast-asia-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    },
+    {
+      "repository": "agid-asia-south-asia-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    },
+    {
+      "repository": "agid-asia-central-asia-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    },
+    {
+      "repository": "agid-asia-middle-east-index",
+      "kind": "region-index",
+      "countryCode": null,
+      "countryName": null,
+      "stage": "wave-0-index",
+      "dataReady": true
+    }
+  ]
+}

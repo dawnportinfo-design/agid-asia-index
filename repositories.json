@@ -1,0 +1,66 @@
+{
+  "schemaVersion": "agid-related-repositories-v0.1",
+  "repository": "agid-asia-index",
+  "relatedRepositories": [
+    {
+      "repository": "agid-asia-caucasus-index",
+      "kind": "region-index",
+      "region": "caucasus",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID Caucasus index for Asia country and territory repository coordination."
+    },
+    {
+      "repository": "agid-asia-east-asia-index",
+      "kind": "region-index",
+      "region": "east_asia",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID East Asia index for Asia country and territory repository coordination."
+    },
+    {
+      "repository": "agid-asia-southeast-asia-index",
+      "kind": "region-index",
+      "region": "southeast_asia",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID Southeast Asia index for Asia country and territory repository coordination."
+    },
+    {
+      "repository": "agid-asia-south-asia-index",
+      "kind": "region-index",
+      "region": "south_asia",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID South Asia index for Asia country and territory repository coordination."
+    },
+    {
+      "repository": "agid-asia-central-asia-index",
+      "kind": "region-index",
+      "region": "central_asia",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID Central Asia index for Asia country and territory repository coordination."
+    },
+    {
+      "repository": "agid-asia-middle-east-index",
+      "kind": "region-index",
+      "region": "middle_east",
+      "stage": "wave-0-index",
+      "githubCreateNow": true,
+      "dataReady": true,
+      "creationRationale": "Region indexes can publish repository pointers, source policy, postal status, and conformance status without raw address data.",
+      "description": "AGID Middle East index for Asia country and territory repository coordination."
+    }
+  ]
+}
